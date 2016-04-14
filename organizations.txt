@@ -1,0 +1,5 @@
+techmagic [igor, oleg]
+google [taras, artem]
+facebook [vasyl]
+UkrZaliznucia AG [lev]
+LvivOblEnergo [ruslan]
