@@ -34,10 +34,11 @@ Homework
  7.3. push User object into Organization.users[] array
  7.4. push Organization object into orgs[] array **IF IT DOES NOT EXIST THERE YET (orgs are unique by name)**
 8. write orgs array into organizations.txt file in format:
+  
   ```
+  
   <orgname> [<user.name>, <user.name>, <user.name>....]
-  <orgname> [...]
-  ...
+  
   ```
 
  
