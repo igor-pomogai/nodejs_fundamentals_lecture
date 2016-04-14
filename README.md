@@ -3,7 +3,7 @@
 Homework
 
 1. create users.xml file with users that have structure:
-  <?xml version="1.0" encoding="utf-8"?>
+  `<?xml version="1.0" encoding="utf-8"?>
     <users>
       <user>
         <id> 1 </id>
@@ -15,7 +15,7 @@ Homework
       <user>
         ...
       </user>
-    </users>
+    </users>`
     
 2. create app.js file that will be your entry point
  2.1. also create package.json with dependencies you need
@@ -32,8 +32,9 @@ Homework
  7.3. push User object into Organization.users[] array
  7.4. push Organization object into orgs[] array IF IT DOES NOT EXIST THERE YET (orgs are unique by name)
 8. write orgs array into organizations.txt file in format:
-  <orgname> [<user.name>, <user.name>, <user.name>....]
+  `<orgname> [<user.name>, <user.name>, <user.name>....]
   <orgname> [...]
   ...
+  `
 
  
