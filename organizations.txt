@@ -1,4 +1,4 @@
-techmagic [igor, oleg, vasyl]
-google [taras, artem]
-UkrZaliznucia AG [lev]
-LvivOblEnergo [ruslan]
+techmagic  [igor , oleg , vasyl ]
+google  [taras , artem ]
+UkrZaliznucia AG  [lev ]
+LvivOblEnergo  [ruslan ]

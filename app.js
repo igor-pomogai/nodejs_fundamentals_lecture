@@ -7,13 +7,10 @@ function objectNormalization (obj) {
 	result = [];
 	var tempUser = {};
 	obj.root.children.forEach(function(item, i) {
-		result[i] = {};
 		item.children.forEach(function(itemIn) {
 			tempUser[itemIn.name] = itemIn.content;
 		});
-		for (var key in tempUser) {
-			result[i][key] = tempUser[key].substring(0, tempUser[key].length - 1); 
-		}
+		result[i] = new User(tempUser);
 	});
 	return result;
 }
