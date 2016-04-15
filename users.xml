@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<users>
+		<user>
+			<id> 1 </id>
+			<name> igor </name>
+			<company> techmagic </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 2 </id>
+			<name> oleg </name>
+			<company> Techmagic </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 3 </id>
+			<name> taras </name>
+			<company> google </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 4 </id>
+			<name> artem </name>
+			<company> google </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 5 </id>
+			<name> vasyl </name>
+			<company> techmagic </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 6 </id>
+			<name> lev </name>
+			<company> UkrZaliznucia AG </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+		<user>
+			<id> 7 </id>
+			<name> ruslan </name>
+			<company> LvivOblEnergo </company>
+			<gender> male </gender>
+			<age> 24 </age>
+		</user>
+	</users>
