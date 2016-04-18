@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <users>
+    <user>
+      <id> 1 </id>
+      <name> Igor </name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+    <user>
+        <id> 2 </id>
+        <name> Taras </name>
+        <company> Amazon </company>
+        <gender> male </gender>
+        <age> 25 </age>
+    </user>
+    <user>
+        <id> 3 </id>
+        <name> Olena </name>
+        <company> Amazon </company>
+        <gender> female </gender>
+        <age> 23 </age>
+    </user>
+    <user>
+        <id> 4 </id>
+        <name> Milana </name>
+        <company> google </company>
+        <gender> female </gender>
+        <age> 22 </age>
+    </user>
+    <user>
+        <id> 5 </id>
+        <name> Galuna </name>
+        <company> Yahoo </company>
+        <gender> female </gender>
+        <age> 23 </age>
+    </user>
+ </users>
