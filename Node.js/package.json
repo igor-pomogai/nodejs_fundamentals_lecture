@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Sortable users and organizations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lev Kozak",
+  "license": "ISC",
+  "dependencies": {
+    "xml-parser": "^1.2.1"
+  }
+}
