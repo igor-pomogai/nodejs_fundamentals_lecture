@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+  <user>
+    <id> 1 </id>
+    <name> igor </name>
+    <company> techmagic </company>
+    <gender> male </gender>
+    <age> 24 </age>
+  </user>
+  <user>
+    <id> 2 </id>
+    <name> petr </name>
+    <company> ikea </company>
+    <gender> male </gender>
+    <age> 34 </age>
+  </user>
+  <user>
+    <id> 3 </id>
+    <name> ivan </name>
+    <company> ikea </company>
+    <gender> male </gender>
+    <age> 34 </age>
+  </user>
+  <user>
+    <id> 4 </id>
+    <name> olha </name>
+    <company> intel </company>
+    <gender> female </gender>
+    <age> 24 </age>
+  </user>
+  <user>
+    <id> 5 </id>
+    <name> anna </name>
+    <company> intel </company>
+    <gender> female </gender>
+    <age> 24 </age>
+  </user>
+</users>
+

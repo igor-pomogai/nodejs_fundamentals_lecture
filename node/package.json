@@ -1,0 +1,22 @@
+{
+  "name": "node-home-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorShmidt/nodejs_fundamentals_lecture.git"
+  },
+  "author": "IhorShmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorShmidt/nodejs_fundamentals_lecture/issues"
+  },
+  "homepage": "https://github.com/IhorShmidt/nodejs_fundamentals_lecture#readme",
+  "dependencies": {
+    "parser-xml": "^0.1.0"
+  }
+}
