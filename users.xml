@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <users>
+    <user>
+      <id> 1 </id>
+      <name> Igor </name>
+      <company> TechMagic </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+    <user>
+      <id> 2 </id>
+      <name> Vasyl </name>
+      <company> EPAM </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+    <user>
+      <id> 3 </id>
+      <name> Vitalik </name>
+      <company> ABTO </company>
+      <gender> male </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 4 </id>
+      <name> Orest </name>
+      <company> Eleks </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+    <user>
+      <id> 5 </id>
+      <name> Yura </name>
+      <company> SoftServe </company>
+      <gender> male </gender>
+      <age> 26 </age>
+    </user>
+    <user>
+      <id> 6 </id>
+      <name> Haluna </name>
+      <company> TechMagic </company>
+      <gender> female </gender>
+      <age> 25 </age>
+    </user>
+    <user>
+      <id> 7 </id>
+      <name> Iruna </name>
+      <company> EPAM </company>
+      <gender> female </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 7 </id>
+      <name> Iruna </name>
+      <company> EPAM </company>
+      <gender> female </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 8 </id>
+      <name> Mukhailo </name>
+      <company> SoftServe </company>
+      <gender> male </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 9 </id>
+      <name> Oleg </name>
+      <company> ABTO </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+    <user>
+      <id> 10 </id>
+      <name> Vika </name>
+      <company> TechMagic </company>
+      <gender> female </gender>
+      <age> 20 </age>
+    </user>
+    <user>
+      <id> 11 </id>
+      <name> Marichka </name>
+      <company> EPAM </company>
+      <gender> female </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 12 </id>
+      <name> Dima </name>
+      <company> TechMagic </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+    <user>
+      <id> 12 </id>
+      <name> Natalia </name>
+      <company> Eleks </company>
+      <gender> female </gender>
+      <age> 22 </age>
+    </user>
+    <user>
+      <id> 13 </id>
+      <name> Maks </name>
+      <company> ABTO </company>
+      <gender> female </gender>
+      <age> 32 </age>
+    </user>
+  </users>
