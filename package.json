@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-readwrite",
+  "version": "0.0.1",
+  "description": "basic xml read/write app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishy-fishy/nodejs-readwrite.git"
+  },
+  "keywords": [
+    "read",
+    "write"
+  ],
+  "author": "ishy-fishy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishy-fishy/nodejs-readwrite/issues"
+  },
+  "homepage": "https://github.com/ishy-fishy/nodejs-readwrite#readme",
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "xml2js": "^0.4.16"
+  }
+}
