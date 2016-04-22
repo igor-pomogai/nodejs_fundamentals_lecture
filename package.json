@@ -1,0 +1,22 @@
+{
+  "name": "homework-nodejs",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katya-grafinska/nodejs_fundamentals_lecture.git"
+  },
+  "author": "Katya Grafinska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katya-grafinska/nodejs_fundamentals_lecture/issues"
+  },
+  "homepage": "https://github.com/katya-grafinska/nodejs_fundamentals_lecture#readme",
+  "dependencies": {
+    "xml-parser": "^1.2.1"
+  }
+}
