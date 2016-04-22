@@ -59,15 +59,23 @@ var obj = parse(xml);
 		return companies;
   }
 
+var orgs = createOrgsArray(users);
 
-console.log(inspect(createOrgsArray(users), {depth: Infinity}));
+// console.log(inspect(createOrgsArray(users), {depth: Infinity}));
 
-// function writeOrgFile(orgs) {
-	
-// 	fs.writeFile('organizations.txt', '', function (err) {
-// 	  if (err) throw err;	});
+function writeOrgFile(orgs) {
 
-// 	orgs.forEach(function(org){
+	fs.writeFile('organizations.txt', '', function (err) {
+	  if (err) throw err;	});
+
+	orgs.forEach(function(org){
+		fs.appendFileSync('organizations.txt', org.name + ' [')
 		
-// 	})
-// }
+		for (var i = 0; i < org.users.length; i++) {
+			fs.appendFileSync('organizations.txt', org.users[i].name + ', ')
+		}
+		fs.appendFileSync('organizations.txt', ']\n');
+	});	
+}
+
+writeOrgFile(orgs);
